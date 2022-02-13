@@ -1,0 +1,24 @@
+siteTitle: example-feed
+cacheUrl: https://naari3.github.io/naari3-feed/cache.json
+cacheMaxDays: 90
+sources:
+  # hatenablog
+  - href: https://49six.hatenablog.jp/rss
+  - href: https://8181chttest.hatenablog.com/rss
+  - href: https://aes256bit.hatenablog.com/rss
+  - href: https://akkera102.hatenablog.com/rss
+  - href: https://all-is-vanity.hatenablog.com/rss
+  - href: https://alphakai.hatenadiary.jp/rss
+  # note
+  - href: https://note.com/aiobahn/rss
+  - href: https://note.com/108_9/rss
+  - href: https://note.com/1oclock/rss
+  - href: https://note.com/26435/rss
+  - href: https://note.com/54654658/rss
+  # tumblr
+  - href: https://alarmoneoclock.tumblr.com/rss
+  # others
+  - href: https://5h4ru.com/rss.xml
+  - href: https://ytpmv.info/?feed=rss2
+  # comics
+  - href: https://nitter.net/search/rss?f=tweets&q=from%3Aboku__yaba+-RT
